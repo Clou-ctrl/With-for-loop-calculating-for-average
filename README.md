@@ -5,7 +5,6 @@
 
 using namespace std;
 
-// Structure to hold student information
 struct Breed {
     string name;
     vector<int> types;
